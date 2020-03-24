@@ -1,0 +1,60 @@
+body{
+    background-color:#ffffe0
+}
+
+#sidebar{
+    width:200px;
+    height:100px;
+    padding:16px;
+    text-align:left;
+    border-right: 1px solid #000;
+    padding:200px 0px
+}
+
+.dog-type{
+    position:absolute;
+    top:20px;
+}
+
+a{
+    text-align:left;
+    color:#000;
+    text-decoration:none;
+    line-height:30px;
+    top:20px;   
+}
+
+
+.beagle-img img{
+    position: absolute;
+    top: 50px;
+    right:800px;
+    width: 150px;
+    height:150px;
+    border:2px solid #d3d3d3;
+    border-radius:50%;
+    padding:0px;
+
+}
+
+.content-box{
+    text-align:left;
+    max-width:600px;
+    right:700px;
+    top:200px;
+    position:absolute;
+       
+}
+
+.information{
+    font-weight:bold;
+
+}
+
+td{
+    padding:5px;
+}
+
+#bgle:visited{
+    color:blue;
+}
